@@ -1,0 +1,2 @@
+Observación: La evaluación T2 permite practicar el control de cambios con Git desde la terminal. 
+Nota: A mas practica mejor se aprenden los comandos
